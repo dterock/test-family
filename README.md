@@ -1,8 +1,6 @@
 # test-family
 
-Node v22.11
-
-npm v11.4
+Node v22.11 npm v11.4
 
 This template should help get you started developing with Vue 3 in Vite.
 
